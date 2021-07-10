@@ -5,7 +5,7 @@
             "Info": "into into into",
             "Ginder": "maile",
             "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/avatar2f.png",
-            "ChatDataUrl": ""
+            "ChatDataUrl": "",
             "Online": true
         },
         {
@@ -13,7 +13,7 @@
             "Info": "into into into",
             "Ginder": "maile",
             "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/avatar1m.png",
-            "ChatDataUrl": ""
+            "ChatDataUrl": "",
             "Online": true
         },
         {
@@ -21,7 +21,7 @@
             "Info": "into into into",
             "Ginder": "maile",
             "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/avatar2m.png",
-            "ChatDataUrl": ""
+            "ChatDataUrl": "",
             "Online": false
         }
     ]
