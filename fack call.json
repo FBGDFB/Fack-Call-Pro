@@ -1,28 +1,37 @@
 {
     "Data": [
         {
-            "Name": "jone Hamiltion",
-            "Info": "into into into",
-            "Ginder": "maile",
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/avatar2f.png",
+            "Name": "wing",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/avatar2f.png\"",
             "ChatDataUrl": "",
-            "Online": true
+            "CallDataUrl": "",
+            "VideoDataUrl": "",
+            "Online": false
         },
         {
-            "Name": "wing manster",
-            "Info": "into into into",
-            "Ginder": "maile",
+            "Name": "Readcode",
+            "Icon": {
+                "instanceID": 0
+            },
             "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/avatar1m.png",
             "ChatDataUrl": "",
+            "CallDataUrl": "",
+            "VideoDataUrl": "",
             "Online": true
         },
         {
-            "Name": "Mr Readcode",
-            "Info": "into into into",
-            "Ginder": "maile",
+            "Name": "sara",
+            "Icon": {
+                "instanceID": 0
+            },
             "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/avatar2m.png",
             "ChatDataUrl": "",
-            "Online": false
+            "CallDataUrl": "",
+            "VideoDataUrl": "",
+            "Online": true
         }
     ]
 }
