@@ -1,0 +1,37 @@
+{
+    "Data": [
+        {
+            "Name": "wing",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/avatar2f.png\"",
+            "ChatDataUrl": "",
+            "CallDataUrl": "",
+            "VideoDataUrl": "",
+            "Online": false
+        },
+        {
+            "Name": "Readcode",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/avatar1m.png",
+            "ChatDataUrl": "",
+            "CallDataUrl": "",
+            "VideoDataUrl": "",
+            "Online": true
+        },
+        {
+            "Name": "sara",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/avatar2m.png",
+            "ChatDataUrl": "",
+            "CallDataUrl": "",
+            "VideoDataUrl": "",
+            "Online": true
+        }
+    ]
+}
