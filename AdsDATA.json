@@ -6,6 +6,7 @@
     "idBanner": "ca-app-pub-3940256099942544/6300978111",
     "idInterstitial": "ca-app-pub-3940256099942544/1033173712",
     "idReward": "ca-app-pub-3940256099942544/5224354917",
+    "idNative": "ca-app-pub-3940256099942544/2247696110",
     "AdmobOption": 1,
     "EnableUnityAds": true,
     "EnableBannerUnityAds": true,
