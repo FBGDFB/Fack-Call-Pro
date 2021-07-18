@@ -1,0 +1,20 @@
+{
+    "EnableAdmob": true,
+    "EnableBannerAdmob": true,
+    "idApp": "ca-app-pub-3940256099942544~3347511713",
+    "idBanner": "ca-app-pub-3940256099942544/6300978111",
+    "idInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "idReward": "ca-app-pub-3940256099942544/5224354917",
+    "AdmobOption": 1,
+    "EnableUnityAds": true,
+    "EnableBannerUnityAds": true,
+    "gameId": "4112955",
+    "placementBanner": "Banner_Android",
+    "placementInterstitial": "Interstitial_Android",
+    "placementRewarded": "Rewarded_Android",
+    "testMode": true,
+    "UnityOption": 1,
+    "EnableApplovin": true,
+    "EnableBannerApplovin": true,
+    "SDK_key": "4112955"
+}
