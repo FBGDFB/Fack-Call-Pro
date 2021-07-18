@@ -1,6 +1,6 @@
 {
     "Virtion":"v1.0.0",
-    "EnableAdmob": false,
+    "EnableAdmob": true,
     "EnableBannerAdmob": false,
     "idApp": "ca-app-pub-3940256099942544~3347511713",
     "idBanner": "ca-app-pub-3940256099942544/6300978111",
@@ -14,7 +14,7 @@
     "placementInterstitial": "Interstitial_Android",
     "placementRewarded": "Rewarded_Android",
     "testMode": true,
-    "UnityOption": 1,
+    "UnityOption": 4,
     "EnableApplovin": true,
     "EnableBannerApplovin": true,
     "SDK_key": "-XWxT5Gxq1S0H_f3LV_LbJfpNCO4Gmo8ML2iLePyla1kKmRlbksSKo0_U4CICiOW8AKc_mAZGHxyZDFTsF37vu"
