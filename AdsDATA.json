@@ -17,5 +17,6 @@
     "UnityOption": 4,
     "EnableApplovin": true,
     "EnableBannerApplovin": true,
+    "BannerPosition": 1,
     "SDK_key": "-XWxT5Gxq1S0H_f3LV_LbJfpNCO4Gmo8ML2iLePyla1kKmRlbksSKo0_U4CICiOW8AKc_mAZGHxyZDFTsF37vu"
 }
