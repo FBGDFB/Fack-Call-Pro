@@ -1,7 +1,7 @@
 {
     "Virtion":"v1.0.0",
-    "EnableAdmob": true,
-    "EnableBannerAdmob": true,
+    "EnableAdmob": false,
+    "EnableBannerAdmob": false,
     "idApp": "ca-app-pub-3940256099942544~3347511713",
     "idBanner": "ca-app-pub-3940256099942544/6300978111",
     "idInterstitial": "ca-app-pub-3940256099942544/1033173712",
@@ -17,5 +17,5 @@
     "UnityOption": 1,
     "EnableApplovin": true,
     "EnableBannerApplovin": true,
-    "SDK_key": "4112955"
+    "SDK_key": "-XWxT5Gxq1S0H_f3LV_LbJfpNCO4Gmo8ML2iLePyla1kKmRlbksSKo0_U4CICiOW8AKc_mAZGHxyZDFTsF37vu"
 }
