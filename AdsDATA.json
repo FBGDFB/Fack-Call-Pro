@@ -1,6 +1,6 @@
 {
-    "EnableAdmob": true,
-    "EnableBannerAdmob": true,
+    "EnableAdmob": false,
+    "EnableBannerAdmob": false,
     "idApp": "ca-app-pub-3940256099942544~3347511713",
     "idBanner": "ca-app-pub-3940256099942544/6300978111",
     "idInterstitial": "ca-app-pub-3940256099942544/1033173712",
