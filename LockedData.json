@@ -1,0 +1,6 @@
+{
+    "chat": true,
+    "call": true,
+    "Video": true,
+    "contact": true
+}
