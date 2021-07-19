@@ -1,5 +1,5 @@
 {
-    "Virtion":"v1.0.2",
+    "Virtion": "v1.0.3",
     "EnableAdmob": true,
     "EnableBannerAdmob": true,
     "idApp": "ca-app-pub-3940256099942544~3347511713",
@@ -7,17 +7,24 @@
     "idInterstitial": "ca-app-pub-3940256099942544/1033173712",
     "idReward": "ca-app-pub-3940256099942544/5224354917",
     "idNative": "ca-app-pub-3940256099942544/2247696110",
-    "AdmobOption": 0,
-    "EnableUnityAds": true,
-    "EnableBannerUnityAds": true,
+    "AdmobOption": 1,
+    "EnableUnityAds": false,
+    "EnableBannerUnityAds": false,
     "gameId": "4112955",
     "placementBanner": "Banner_Android",
     "placementInterstitial": "Interstitial_Android",
     "placementRewarded": "Rewarded_Android",
     "testMode": true,
     "UnityOption": 4,
-    "EnableApplovin": true,
-    "EnableBannerApplovin": true,
+    "EnableApplovin": false,
+    "EnableBannerApplovin": false,
     "BannerPosition": 1,
-    "SDK_key": "-XWxT5Gxq1S0H_f3LV_LbJfpNCO4Gmo8ML2iLePyla1kKmRlbksSKo0_U4CICiOW8AKc_mAZGHxyZDFTsF37vu"
+    "SDK_key": "-XWxT5Gxq1S0H_f3LV_LbJfpNCO4Gmo8ML2iLePyla1kKmRlbksSKo0_U4CICiOW8AKc_mAZGHxyZDFTsF37vu",
+    "EnableOnerAds": true,
+    "AdsUrl": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/320x50.jpg",
+    "ImageUrl": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/320x50.jpg",
+    "ImageADS": {
+        "instanceID": 0
+    },
+    "OnerAdsBannerPosition": 0
 }
