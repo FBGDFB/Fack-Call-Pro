@@ -1,7 +1,7 @@
 {
     "Virtion": "v1.0.3",
     "EnableAdmob": true,
-    "EnableBannerAdmob": true,
+    "EnableBannerAdmob": false,
     "idApp": "ca-app-pub-3940256099942544~3347511713",
     "idBanner": "ca-app-pub-3940256099942544/6300978111",
     "idInterstitial": "ca-app-pub-3940256099942544/1033173712",
@@ -16,15 +16,15 @@
     "placementRewarded": "Rewarded_Android",
     "testMode": true,
     "UnityOption": 4,
-    "EnableApplovin": false,
-    "EnableBannerApplovin": false,
-    "BannerPosition": 1,
+    "EnableApplovin": true,
+    "EnableBannerApplovin": true,
+    "BannerPosition": 0,
     "SDK_key": "-XWxT5Gxq1S0H_f3LV_LbJfpNCO4Gmo8ML2iLePyla1kKmRlbksSKo0_U4CICiOW8AKc_mAZGHxyZDFTsF37vu",
     "EnableOnerAds": true,
-    "AdsUrl": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/320x50.jpg",
-    "ImageUrl": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/320x50.jpg",
+    "AdsUrl": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/320-50.png",
+    "ImageUrl": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/320-50.png",
     "ImageADS": {
         "instanceID": 0
     },
-    "OnerAdsBannerPosition": 0
+    "OnerAdsBannerPosition": 1
 }
