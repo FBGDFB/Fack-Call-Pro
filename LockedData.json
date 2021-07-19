@@ -1,6 +1,6 @@
 {
     "chat": true,
-    "call": true,
+    "call": false,
     "Video": true,
     "contact": true
 }
