@@ -7,7 +7,7 @@
     "idInterstitial": "ca-app-pub-3940256099942544/1033173712",
     "idReward": "ca-app-pub-3940256099942544/5224354917",
     "idNative": "ca-app-pub-3940256099942544/2247696110",
-    "AdmobOption": 2,
+    "AdmobOption": 1,
     "EnableUnityAds": false,
     "EnableBannerUnityAds": false,
     "gameId": "4112955",
@@ -26,5 +26,5 @@
     "ImageADS": {
         "instanceID": 0
     },
-    "OnerAdsBannerPosition": 1
+    "OnerAdsBannerPosition": 0
 }
