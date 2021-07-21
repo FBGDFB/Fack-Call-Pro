@@ -14,7 +14,7 @@
     "placementBanner": "Banner_Android",
     "placementInterstitial": "Interstitial_Android",
     "placementRewarded": "Rewarded_Android",
-    "testMode": true,
+    "testMode": false,
     "UnityOption": 4,
     "EnableApplovin": true,
     "EnableBannerApplovin": false,
