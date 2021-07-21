@@ -8,7 +8,7 @@
     "idReward": "ca-app-pub-3940256099942544/5224354917",
     "idNative": "ca-app-pub-3940256099942544/2247696110",
     "AdmobOption": 1,
-    "EnableUnityAds": false,
+    "EnableUnityAds": true,
     "EnableBannerUnityAds": false,
     "gameId": "4112955",
     "placementBanner": "Banner_Android",
