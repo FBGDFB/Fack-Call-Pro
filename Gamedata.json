@@ -4,6 +4,6 @@
  "Description" : "New updates are available, we added more cool levels, check it now",
  "Version" : "1.3",
  "Url" : "https://play.google.com/store/apps/dev?id=xxxxxxxxxxxxx",
- "ModeUpdateOnline":false
- "UrlIcon":"https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/1809239.png";
+ "ModeUpdateOnline":false,
+ "UrlIcon":"https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/1809239.png"
 }
