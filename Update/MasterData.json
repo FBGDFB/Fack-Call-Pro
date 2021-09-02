@@ -1,12 +1,12 @@
 {
-    "UpdateJsonDataURL": "",
-    "AdsManagerJsonDataURL": "",
-    "ContactDataJsonDataURL": "",
-    "MoreGameJsonDataURL": "",
-    "LockedJsonDataURL": "",
+    "UpdateJsonDataURL": "http://194.163.154.196/apps2/kimberly/appdata/update.json",
+    "AdsManagerJsonDataURL": "http://194.163.154.196/apps2/kimberly/appdata/Adsdata.json",
+    "ContactDataJsonDataURL": "http://194.163.154.196/apps2/kimberly/appdata/contact.json",
+    "MoreGameJsonDataURL": "http://194.163.154.196/apps2/kimberly/appdata/adswipe.json",
+    "LockedJsonDataURL": "http://194.163.154.196/apps2/kimberly/appdata/locked.json",
     "YourEmail": "",
     "RateURL": "",
     "MoreURL": "",
-    "ShareText": "",
+    "ShareText": ""
     "RobotTimerCall": 0.5619999766349793
 }
