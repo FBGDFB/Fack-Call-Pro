@@ -9,7 +9,7 @@
                 "instanceID": 0
             },
             "Icon_Url": "http://194.163.154.196/apps2/kimberly/contact/avatars/avatar1.png",
-            "Chat_Data_Url": "http://194.163.154.196/apps2/kimberly/contact/chat/chatbot1.json",
+            "Chat_Data_Url": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/Update/RobotChatData.json",
             "Call_Data_Url": "http://194.163.154.196/apps2/kimberly/contact/audios/kim1.mp3",
             "Video_Data_Url": "http://194.163.154.196/apps2/kimberly/contact/videos/kim1.mp4"
         },
@@ -22,7 +22,7 @@
                 "instanceID": 0
             },
             "Icon_Url": "http://194.163.154.196/apps2/kimberly/contact/avatars/avatar1.png",
-            "Chat_Data_Url": "http://194.163.154.196/apps2/kimberly/contact/chat/chatbot1.json",
+            "Chat_Data_Url": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/Update/RobotChatData.json",
             "Call_Data_Url": "http://194.163.154.196/apps2/kimberly/contact/audios/kim1.mp3",
             "Video_Data_Url": "http://194.163.154.196/apps2/kimberly/contact/videos/kim1.mp4"
         },
@@ -35,7 +35,7 @@
                 "instanceID": 0
             },
             "Icon_Url": "http://194.163.154.196/apps2/kimberly/contact/avatars/avatar1.png",
-            "Chat_Data_Url": "http://194.163.154.196/apps2/kimberly/contact/chat/chatbot1.json",
+            "Chat_Data_Url": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/Update/RobotChatData.json",
             "Call_Data_Url": "http://194.163.154.196/apps2/kimberly/contact/audios/kim1.mp3",
             "Video_Data_Url": "http://194.163.154.196/apps2/kimberly/contact/videos/kim1.mp4"
         },
@@ -48,7 +48,7 @@
                 "instanceID": 0
             },
             "Icon_Url": "http://194.163.154.196/apps2/kimberly/contact/avatars/avatar1.png",
-            "Chat_Data_Url": "http://194.163.154.196/apps2/kimberly/contact/chat/chatbot1.json",
+            "Chat_Data_Url": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/Update/RobotChatData.json",
             "Call_Data_Url": "http://194.163.154.196/apps2/kimberly/contact/audios/kim1.mp3",
             "Video_Data_Url": "http://194.163.154.196/apps2/kimberly/contact/videos/kim1.mp4"
         }
