@@ -1,54 +1,75 @@
 {
-    "NomberMessageAftrShowAds": 10,
+    "NomberMessageAftrShowAds": 0,
     "CorantID": 0,
     "GetNextQuestions": false,
-    "NoAnserFind": [
-        "no undrstand",
-        "i dont undrstand"
-    ],
+    "NoAnserFind": [],
     "QData": [
         {
-            "RobotQuestion": "Hello, how are you",
+            "RobotQuestion": "hello mr  Salah ,how are you",
             "ID": 0,
             "MessageType": 0,
             "Anser": [
                 {
-                    "UserMassage": "im fine",
-                    "RobotMassage": "cool"
+                    "UserMassage": "im fine Thanks",
+                    "RobotMassage": "nice "
                 },
                 {
-                    "UserMassage": "im not good",
-                    "RobotMassage": "oh my good"
+                    "UserMassage": "im good Thanks",
+                    "RobotMassage": "nice "
                 },
                 {
-                    "UserMassage": "im  good",
-                    "RobotMassage": "oh my good"
+                    "UserMassage": "im not ok",
+                    "RobotMassage": "ah i dont care"
                 },
                 {
-                    "UserMassage": "im so tayrd",
-                    "RobotMassage": "oh my good"
+                    "UserMassage": "ana msakhsakh",
+                    "RobotMassage": " machi so9i hhh"
                 }
             ]
         },
         {
             "RobotQuestion": "how old are you",
             "ID": 1,
-            "MessageType": 1,
+            "MessageType": 0,
             "Anser": [
                 {
-                    "UserMassage": "27",
-                    "RobotMassage": "cool"
+                    "UserMassage": "Im less than 10 years old",
+                    "RobotMassage": "nice"
+                },
+                {
+                    "UserMassage": "Im More than 10 years old",
+                    "RobotMassage": "nice"
+                },
+                {
+                    "UserMassage": "Im less than 20 years old",
+                    "RobotMassage": "nice"
+                },
+                {
+                    "UserMassage": "Im More than 20 years old",
+                    "RobotMassage": "nice"
+                },
+                {
+                    "UserMassage": "Im More than 30 years old",
+                    "RobotMassage": "Charf m3a rasek"
                 }
             ]
         },
         {
-            "RobotQuestion": "What Are you dowing ",
-            "ID": 2,
+            "RobotQuestion": "Wach fhmti daba ola la",
+            "ID": 0,
             "MessageType": 0,
             "Anser": [
                 {
-                    "UserMassage": "Game deve",
-                    "RobotMassage": "nice i like it"
+                    "UserMassage": "oui fhmt",
+                    "RobotMassage": "ok "
+                },
+                {
+                    "UserMassage": "no mafhmtch",
+                    "RobotMassage": "ok "
+                },
+                {
+                    "UserMassage": "oui fhmt",
+                    "RobotMassage": "ok "
                 }
             ]
         }
