@@ -1,0 +1,56 @@
+{
+    "NomberMessageAftrShowAds": 10,
+    "CorantID": 0,
+    "GetNextQuestions": false,
+    "NoAnserFind": [
+        "no undrstand",
+        "i dont undrstand"
+    ],
+    "QData": [
+        {
+            "RobotQuestion": "Hello, how are you",
+            "ID": 0,
+            "MessageType": 0,
+            "Anser": [
+                {
+                    "UserMassage": "im fine",
+                    "RobotMassage": "cool"
+                },
+                {
+                    "UserMassage": "im not good",
+                    "RobotMassage": "oh my good"
+                },
+                {
+                    "UserMassage": "im  good",
+                    "RobotMassage": "oh my good"
+                },
+                {
+                    "UserMassage": "im so tayrd",
+                    "RobotMassage": "oh my good"
+                }
+            ]
+        },
+        {
+            "RobotQuestion": "how old are you",
+            "ID": 1,
+            "MessageType": 1,
+            "Anser": [
+                {
+                    "UserMassage": "27",
+                    "RobotMassage": "cool"
+                }
+            ]
+        },
+        {
+            "RobotQuestion": "What Are you dowing ",
+            "ID": 2,
+            "MessageType": 0,
+            "Anser": [
+                {
+                    "UserMassage": "Game deve",
+                    "RobotMassage": "nice i like it"
+                }
+            ]
+        }
+    ]
+}
