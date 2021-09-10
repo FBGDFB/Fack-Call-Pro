@@ -2,7 +2,7 @@
     "UpdateJsonDataURL": "http://194.163.154.196/apps2/kimberly/appdata/update.json",
     "AdsManagerJsonDataURL": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/Update/AdsDATA.json",
     "ContactDataJsonDataURL": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/Update/AvatarsChatData.json",
-    "MoreGameJsonDataURL": "http://194.163.154.196/apps2/kimberly/appdata/adswipe.json",
+    "MoreGameJsonDataURL": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/MoreGameData.json",
     "LockedJsonDataURL": "http://194.163.154.196/apps2/kimberly/appdata/locked.json",
     "YourEmail": "Slive",
     "RateURL": "",
