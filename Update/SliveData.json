@@ -5,8 +5,8 @@
     "MoreGameJsonDataURL": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/MoreGameData.json",
     "LockedJsonDataURL": "http://194.163.154.196/apps2/kimberly/appdata/locked.json",
     "YourEmail": "Slive",
-    "RateURL": "",
-    "MoreURL": "",
-    "ShareText": "",
+    "RateURL": "https\\www.google.com",
+    "MoreURL": "https\\www.google.com",
+    "ShareText": "hello tray this game its cool ",
     "RobotTimerCall": 0.5619999766349793
 }
