@@ -1,0 +1,16 @@
+{
+    "UpdateURL": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/UpgradeData.json",
+    "AdsManagerURL": "",
+    "ContactDataURL": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/AvatarsChatData.json",
+    "MoreGameURL": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/MoreGameData.json",
+    "LockedURL": "",
+    "OneSignalPushId": "[OneSignal Id]",
+    "MoreURL": "",
+    "privacyURL": "[www.PrivacyPoliceUrl.com]",
+    "RobotTimerCall": 0.4300000071525574,
+    "link": "[Your application store link]",
+    "mailFrom": "[Your mail from which messages will be sent]",
+    "mailFromPassword": "[Password to mailFrom]",
+    "feedbackEmail": "[Your feedback mail]",
+    "remindRating": 3
+}
