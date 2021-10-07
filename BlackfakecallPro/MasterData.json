@@ -1,7 +1,7 @@
 {
     "UpdateURL": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/UpgradeData.json",
-    "AdsManagerURL": "",
-    "ContactDataURL": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/AvatarsChatData.json",
+    "AdsManagerURL": "http://194.163.154.196/apps1/adsall/ads/Adsdata2.json",
+    "ContactDataURL": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/BlackfakecallPro/AvatarsChatData.json",
     "MoreGameURL": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/MoreGameData.json",
     "LockedURL": "",
     "OneSignalPushId": "[OneSignal Id]",
