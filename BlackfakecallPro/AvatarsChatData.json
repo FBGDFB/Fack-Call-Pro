@@ -10,8 +10,7 @@
             "ChatDataUrl": "http://194.163.154.196/apps1/kitchen/contact/chat/chatbot1.json",
             "CallDataUrl": "https://ciihuy.com/downloads/music.mp3",
             "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/bandicam.mp4",
-            "Online": true,
-            "VideoTimer": 1.0
+            "Online": true
         },
         {
             "Name": "John S. Amaral",
@@ -23,8 +22,8 @@
             "ChatDataUrl": "http://194.163.154.196/apps1/kitchen/contact/chat/chatbot1.json",
             "CallDataUrl": "https://ciihuy.com/downloads/music.mp3",
             "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/bandicam.mp4",
-            "Online": true,
-            "VideoTimer": 1.0
+            "Online": true
+           
         },
         {
             "Name": "Jessica  Dery",
@@ -36,8 +35,7 @@
             "ChatDataUrl": "http://194.163.154.196/apps1/kitchen/contact/chat/chatbot1.json",
             "CallDataUrl": "https://ciihuy.com/downloads/music.mp3",
             "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/bandicam.mp4",
-            "Online": true,
-            "VideoTimer": 1.0
+            "Online": true
         },
         {
             "Name": "Alton  Caldwell ",
@@ -49,8 +47,7 @@
             "ChatDataUrl": "http://194.163.154.196/apps1/kitchen/contact/chat/chatbot1.json",
             "CallDataUrl": "https://ciihuy.com/downloads/music.mp3",
             "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/bandicam.mp4",
-            "Online": true,
-            "VideoTimer": 1.0
+            "Online": true
         },
         {
             "Name": "Angela  Brown",
@@ -62,8 +59,7 @@
             "ChatDataUrl": "http://194.163.154.196/apps1/kitchen/contact/chat/chatbot1.json",
             "CallDataUrl": "https://ciihuy.com/downloads/music.mp3",
             "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/bandicam.mp4",
-            "Online": true,
-            "VideoTimer": 1.0
+            "Online": true
         },
         {
             "Name": "Teresa  Nunez",
@@ -75,8 +71,7 @@
             "ChatDataUrl": "http://194.163.154.196/apps1/kitchen/contact/chat/chatbot1.json",
             "CallDataUrl": "https://ciihuy.com/downloads/music.mp3",
             "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/bandicam.mp4",
-            "Online": true,
-            "VideoTimer": 1.0
+            "Online": true
         },
         {
             "Name": "Daniel Robinson",
@@ -88,8 +83,7 @@
             "ChatDataUrl": "http://194.163.154.196/apps1/kitchen/contact/chat/chatbot1.json",
             "CallDataUrl": "https://ciihuy.com/downloads/music.mp3",
             "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/bandicam.mp4",
-            "Online": true,
-            "VideoTimer": 1.0
+            "Online": true
         },
         {
             "Name": "Andre Hand",
@@ -101,8 +95,7 @@
             "ChatDataUrl": "http://194.163.154.196/apps1/kitchen/contact/chat/chatbot1.json",
             "CallDataUrl": "https://ciihuy.com/downloads/music.mp3",
             "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/bandicam.mp4",
-            "Online": true,
-            "VideoTimer": 1.0
+            "Online": true
         }
     ]
 }
