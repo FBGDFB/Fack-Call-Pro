@@ -1,0 +1,30 @@
+{
+    "Virtion": "1.0.0",
+    "EnableUnityAds": 0,
+    "EnableBannerUnityAds": true,
+    "GameId": "4112955",
+    "PlacementBanner": "Banner_Android",
+    "PlacementInterstitial": "Interstitial_Android",
+    "PlacementRewarded": "Rewarded_Android",
+    "TestMode": true,
+    "UnityOption": 1,
+    "EnableAdmob": 0,
+    "EnableBannerAdmob": true,
+    "IdApp": "ca-app-pub-3940256099942544~3347511713",
+    "IdBanner": "ca-app-pub-3940256099942544/6300978111",
+    "IdInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "IdReward": "ca-app-pub-3940256099942544/5224354917",
+    "IdNative": "ca-app-pub-3940256099942544/2247696110",
+    "AdmobOption": 0,
+    "EnableApplovin": 1,
+    "EnableBannerApplovin": true,
+    "BannerPosition": 0,
+    "SDK_key": "-XWxT5Gxq1S0H_f3LV_LbJfpNCO4Gmo8ML2iLePyla1kKmRlbksSKo0_U4CICiOW8AKc_mAZGHxyZDFTsF37vu",
+    "EnableOnerAds": 1,
+    "AdsUrl": "",
+    "ImageUrl": "",
+    "ImageADS": {
+        "instanceID": 0
+    },
+    "OnerAdsBannerPosition": 0
+}
