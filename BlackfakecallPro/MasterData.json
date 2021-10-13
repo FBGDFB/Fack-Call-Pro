@@ -3,7 +3,7 @@
     "AdsManagerURL": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/BlackfakecallPro/AdsDATA.json",
     "ContactDataURL": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/BlackfakecallPro/AvatarsChatData.json",
     "MoreGameURL": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/MoreGameData.json",
-    "OneSignalPushId": "[OneSignal Id]",
+    "OneSignalPushId": "12a54a53-156e-4557-8cd1-c731d4e8a573",
     "MoreURL": "",
     "feedbackEmail": "[Your feedback mail]",
     "link": "[Your application store link]",
